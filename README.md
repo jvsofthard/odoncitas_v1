@@ -1,3 +1,9 @@
+*NOTA 1*
+--Este proyecto muy basico en el cual eh querido trabajar poco a poco, le falta muchas mejoras y ajuste pero vamos dandole forma en otras versiones.--
+*NOTA 1*
+--Este pequeño proyecto esta en su version beta 0.1, funciona, realiza sus proceso, hay que corregir ciertos puntos, Hacerle algunas mejoras. etc. ---
+
+
 1. Inicio del Proyecto: Módulo de Pacientes
   •	El modulo paciente cuenta con 2 opciones:
   o	Crear pacientes: La opción crear paciente cuenta con un formulario que tiene como Nombre completo, Fecha Nacimiento, Edad, Sexo,  Nacionalidad, Dirección, Contacto, Correo Electrónico, Aseguradora, No seguros.
