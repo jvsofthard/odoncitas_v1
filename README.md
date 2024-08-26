@@ -1,7 +1,7 @@
 *NOTA 1*
 --Este proyecto muy basico en el cual eh querido trabajar poco a poco, le falta muchas mejoras y ajuste pero vamos dandole forma en otras versiones.--
 
-*NOTA 1*
+*NOTA 2*
 --Este pequeño proyecto esta en su version beta 0.1, funciona, realiza sus proceso, hay que corregir ciertos puntos, Hacerle algunas mejoras. etc. ---
 
 
