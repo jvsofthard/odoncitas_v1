@@ -1,5 +1,5 @@
 *NOTA 1*
---Este proyecto muy basico en el cual eh querido trabajar poco a poco, le falta muchas mejoras y ajuste pero vamos dandole forma en otras versiones.--
+--Este proyecto muy basico en el cual eh querido trabajar poco a poco, le falta muchas mejoras y ajuste pero vamos dandole forma en otras versiones. *fue creado con HTML, CSS, JS, PHP Y usando como servidor local Xampp, en este proyecto esta la base de dato sql llamada odontologia.slq--*
 
 *NOTA 2*
 --Este pequeño proyecto esta en su version beta 0.1, funciona, realiza sus proceso, hay que corregir ciertos puntos, Hacerle algunas mejoras. etc. ---
